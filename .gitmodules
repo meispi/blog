@@ -1,0 +1,4 @@
+[submodule "meispi_blog/public"]
+	path = meispi_blog/public
+	url = https://github.com/meispi/meispi.github.io.git
+	branch = main
